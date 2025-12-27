@@ -1,0 +1,10 @@
+Your Conversation Log:
+You: Hi, I'm Steve M.
+AI: Hi Steve! It's great to meet you.
+
+How can I assist you today?
+
+You: What's my name?
+AI: Your name is Steve M.
+
+End of Conversation
